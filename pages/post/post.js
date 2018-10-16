@@ -1,6 +1,6 @@
 // pages/post/post.js
 Page({
-
+  devTest:"Hello",
   /**
    * 页面的初始数据
    */
