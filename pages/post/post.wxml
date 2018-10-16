@@ -11,5 +11,13 @@
       <image src='http://bmob-cdn-21910.b0.upaiyun.com/2018/10/15/5a9a18fa40c894ad8072c285022deedb.jpg'></image>
    </swiper-item>
 </swiper>
-<text>Hello World!</text>
+<view class='post-container'>
+   <view class='post-author-date'>
+      <image src='http://bmob-cdn-21910.b0.upaiyun.com/2018/10/16/42670334400064f780882e3d20391eae.jpg'></image>
+      <text>Oct 16 2018</text>
+   </view>
+   <text class='post-like'>山水</text>
+   <image class='post-image' src='http://bmob-cdn-21910.b0.upaiyun.com/2018/10/16/96faac00406de329801bd3f3bdf80580.jpg'></image>
+   <text class='post-content'>上善若水</text>
+</view>
 </view>
